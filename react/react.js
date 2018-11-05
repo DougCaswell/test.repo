@@ -1,3 +1,4 @@
 var me = {
-    name: "Douglas Caswell"
+    name: "Douglas Caswell",
+    age: 27
 };
